@@ -3,8 +3,6 @@
 Welcome to my house, friend. I created this new home to replace an old site and I prefer to use [Github](https://github.com) as the engine.
 Love to share what I learn.
 
-Personal Website: https://wibowo.cyou
-
 ## Let's Connect
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sa3owibowo)
