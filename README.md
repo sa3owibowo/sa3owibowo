@@ -1,7 +1,6 @@
 ### Hello Strangers!
 
-Welcome to my house, friend. I created this new home to replace an old site and I prefer to use [Github](https://github.com) as the engine.
-Love to share what I learn.
+Welcome to my house, friend. Love to share what I learn.
 
 ## Let's Connect
 
