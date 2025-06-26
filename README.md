@@ -8,7 +8,7 @@ Welcome to my house, friend. Love to share what I learn.
 
 [<img align="left" alt="x" src="https://img.shields.io/badge/@sa3owibowo-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/sa3owibowo)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/@sa3owibowo-%23e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/sa3owibowo)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/@sa3owibowo-%23e1306c.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/sa3owibowo)
 
 <br>
 <br>
